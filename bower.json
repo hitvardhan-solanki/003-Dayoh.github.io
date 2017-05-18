@@ -1,0 +1,22 @@
+{
+  "name": "SPA-one-Assignment3",
+  "description": "third assignment for UI assignment",
+  "main": "",
+  "authors": [
+    "Hitvardhan S Solanki"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0",
+    "hover": "^2.1.1"
+  }
+}
